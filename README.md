@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kamalesh.
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Java, Python and Security Tools.
+- 👀 I’m interested in Networking & Cyber Security
+- 🌱 I’m currently preparing for CCNA.
 - 📫 Reach me via gmail - kamal02ak@gmail.com
 
 <!---
